@@ -5,6 +5,7 @@ Je m'appelle Qi WANG, étudiante en M2 TAL (Traitement Automatique des Langues) 
 ## Expériences professionnelles
 
 ### Avril - Octobre 2021, Stagiaire d'études en Linguistique Informatique chez BNP Paribas
+
 S'inscrivant dans le projet LEOnard des Études Économiques, le stage vise à proposer un outil de faits d'actualité sur la plate-forme datavisualisation. Cet outil étant dans l'objectif de détecter les articles bilingues (français et anglais) similaires avec une plage temporelle choisie à partir des paraphrases repérés. Nous avons exploité de différentes algorithmiques afin de pouvoir comparer la performance entre elles. 
 
 ## Projets scolaires
@@ -27,7 +28,7 @@ Nous pouvons diviser les missions de ce projet en deux étapes principales. L’
 
 La deuxième étape appuie sur ces documents transférés et enregistrés à la première étape. Sous l’environnement d’eXist-db, un site internet est fait par XQuery et Extensible Stylesheet Language Transformations (XSLT). Trois interfaces se sont inscrites dans le cadre du site : une pour la recherche d’informations dans les documents, une pour afficher les documents mise en page et la finale pour présenter le projet.
 
-#### (Projet Web, BD)[https://github.com/wq2021/projet_web_BD]
+#### [Projet Web, BD](https://github.com/wq2021/projet_web_BD)
 
 Le projet de ce cours consiste à développer une interface personnelle pour pouvoir effectuer les fonctionnalités définies. Il se base sur la réalisation d’un site Internet avec interaction dynamique avec une base de données.
 
