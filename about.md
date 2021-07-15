@@ -7,11 +7,13 @@ Cette page est dédiée aux projets scolaires réalisés au cours de mon master.
 ## Master 2 TAL
 
 ### [Projet Classifieur de tweets français (Python)](https://github.com/wq2021/projet-python-classifieur)
+
 L’objectif de ce projet consiste à réaliser une chaîne de traitement de classification de textes à l’aide de scikit-learn. Afin de créer un classifieur de documents, nous allons implémenter plusieurs méthodes pour l’extraction des features de données textuelles et plusieurs algorithmes pour la classification.
 
 Les données ont été choisies sur Kaggle, où les jeux de données(datasets) sont en open source. Ils présentent 1,5 million de tweets en français et leur sentiment(étiquette) en binaire (0 pour négatif, 1 pour positif) sous format csv.
 
 ### [Projet Programmation Orientée Objet (Java) : Interaction avec la base de données relationnelles](https://github.com/wq2021/Devoir-Java-S2)
+
 Ce projet sert à proposer un programme Java en utilisant une base de données relationnelles, afin de rappeler des notion de base POO en Java. Les données provenant du site Paris Data, qui fournit un ensemble de jeu de données open source. Nous avons choisi les lieux de tournage à Paris comme le sujet, où le fichier pertinent concerne les lieux de scène en extérieur à Paris depuis 2016.
 
 ### [Projet Documents Structurés](https://github.com/wq2021/projet-documents-structures)
@@ -42,9 +44,11 @@ Le projet Boîte à Outils (BàO) consiste à mettre en oeuvre d’une chaîne d
 
 Les boîtes à outils font appel aux méthodes informatiques nécessaires à leur réalisation, comme récupérer de corpus, segmenter, étiqueter des textes, etc. Elles permettent principalement de(d’) :
 
-– extraire des textes : parcourir toute l’arborescence et extraire les contenus textuels de tous les fils RSS ⇒ BàO 1
-– étiqueter des textes : étiqueter automatiquement les contenus textuels extraits grâce au Treetagger et au Talismane, les annotateurs en morpho-syntaxe et en dépendances syntaxiques ⇒ BàO 2
-– extraire des patrons : rechercher et extraire des termes sur les données étiquetées (les séquences NOM-PREP-NOM-PREP, NOM-ADJ, etc) ⇒ BàO 3
+– **extraire des textes** : parcourir toute l’arborescence et extraire les contenus textuels de tous les fils RSS ⇒ BàO 1
+
+– **étiqueter des textes** : étiqueter automatiquement les contenus textuels extraits grâce au Treetagger et au Talismane, les annotateurs en morpho-syntaxe et en dépendances syntaxiques ⇒ BàO 2
+
+– **extraire des patrons** : rechercher et extraire des termes sur les données étiquetées (les séquences NOM-PREP-NOM-PREP, NOM-ADJ, etc) ⇒ BàO 3
 
 ### [Projet Synthèse de la parole](https://github.com/wq2021/M1_TAL_Synthese_de_la_parole)
 
