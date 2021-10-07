@@ -4,7 +4,6 @@ Je m'appelle Qi WANG, étudiante en [M2 AMSD (Apprentissage Machine pour la Scie
 
 Cette page est dédiée aux projets scolaires réalisés au cours de mon master TAL (Traitement Automatique des Langues), n'hésitez pas à me contacter si vous avez des questions. 
 
-
 Bonne lecture !
 
 ## Master 2 TAL
