@@ -1,8 +1,9 @@
 # Hello, contente de vous retrouver ici !
 
-Je m'appelle Qi WANG, étudiante en M2 TAL (Traitement Automatique des Langues) à Inalco et stagiaire d’études en linguistique informatique chez BNP Paribas. Actuellement je travaille sur la similarité textuelle des articles, plus particulièrement sur la détection de paraphrases.
+Je m'appelle Qi WANG, étudiante en [M2 AMSD (Apprentissage Machine pour la Science des Données)](https://biomedicale.u-paris.fr/master-informatique/master-informatique-amsd/) à l'Université de Paris.
 
-Cette page est dédiée aux projets scolaires réalisés au cours de mon master, n'hésitez pas à me contacter si vous avez des questions. 
+Cette page est dédiée aux projets scolaires réalisés au cours de mon master TAL (Traitement Automatique des Langues), n'hésitez pas à me contacter si vous avez des questions. 
+
 
 Bonne lecture !
 
