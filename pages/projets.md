@@ -10,21 +10,21 @@ Bonne lecture !
 
 ### [Projet Classifieur de tweets français (Python)](https://github.com/wq2021/projet-python-classifieur)
 
-L’objectif de ce projet consiste à réaliser une chaîne de traitement de classification de textes à l’aide de scikit-learn. Afin de créer un classifieur de documents, nous allons implémenter plusieurs méthodes pour l’extraction des features de données textuelles et plusieurs algorithmes pour la classification.
+L’objectif de ce projet consiste à réaliser une chaîne de traitement de classification de textes à l’aide de scikit-learn. Afin de créer un classifieur de documents, nous implémentons plusieurs méthodes pour l’extraction des features de données textuelles et plusieurs algorithmes pour la classification.
 
 Les données ont été choisies sur Kaggle, où les jeux de données(datasets) sont en open source. Ils présentent 1,5 million de tweets en français et leur sentiment(étiquette) en binaire (0 pour négatif, 1 pour positif) sous format csv.
 
 ### [Projet Programmation Orientée Objet (Java) : Interaction avec la base de données relationnelles](https://github.com/wq2021/Devoir-Java-S2)
 
-Ce projet sert à proposer un programme Java en utilisant une base de données relationnelles, afin de rappeler des notion de base POO en Java. Les données provenant du site Paris Data, qui fournit un ensemble de jeu de données open source. Nous avons choisi les lieux de tournage à Paris comme le sujet, où le fichier pertinent concerne les lieux de scène en extérieur à Paris depuis 2016.
+Ce projet vise à proposer un programme Java en utilisant une base de données relationnelles, dans le but de rappeler des notions de base POO en Java. Les données provenant du site [Paris Data](https://opendata.paris.fr/pages/home/), au suejt [des lieux de tournage à Paris.](https://opendata.paris.fr/explore/dataset/lieux-de-tournage-a-paris/table/?disjunctive.type_tournage&disjunctive.nom_tournage&disjunctive.nom_realisateur&disjunctive.nom_producteur&disjunctive.ardt_lieu)
 
 ### [Projet Documents Structurés](https://github.com/wq2021/projet-documents-structures)
 
-Le projet du cours « Documents Structurés » repose sur une chaîne de traitement pour la publication de documents en ligne, il s’agit de trois œuvres littéraires : Madame Bovary, Siddhartha et Wuthering Heights. Un site web est proposé via la plate-forme eXist-db pour présenter le contenu de ces documents et interagir avec.
+Le projet du cours « Documents Structurés » repose sur une chaîne de traitement pour la publication de documents en ligne. Il s’agit de trois œuvres littéraires : Madame Bovary, Siddhartha et Wuthering Heights. Un site web est proposé via la plate-forme eXist-db pour présenter le contenu de ces documents et interagir avec.
 
 Nous pouvons diviser les missions de ce projet en deux étapes principales. L’objectif de la première étape est de transformer les documents au format OpenDocument (.odt) en document XML selon le standard de la Text Encoding Initiative (TEI). Pour cela, le schéma TEI permet de valider la structure.
 
-La deuxième étape appuie sur ces documents transférés et enregistrés à la première étape. Sous l’environnement d’eXist-db, un site internet est fait par XQuery et Extensible Stylesheet Language Transformations (XSLT). Trois interfaces se sont inscrites dans le cadre du site : une pour la recherche d’informations dans les documents, une pour afficher les documents mise en page et la finale pour présenter le projet.
+La deuxième étape appuie sur ces documents transférés et enregistrés dans la première étape. Sous l’environnement d’eXist-db, un site internet est fait par XQuery et Extensible Stylesheet Language Transformations (XSLT). Trois interfaces se sont inscrites dans le cadre du site : une pour la recherche d’informations dans les documents, une pour afficher les documents mise en page et la finale pour présenter le projet.
 
 ### [Projet Web, BD](https://github.com/wq2021/projet_web_BD)
 
